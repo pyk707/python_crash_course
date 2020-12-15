@@ -16,6 +16,7 @@ motocycles.insert(0, 'ducati')
 print(motocycles)
 print()
 
+
 #del, pop, remove
 del motocycles[0]
 print(motocycles)
