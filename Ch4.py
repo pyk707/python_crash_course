@@ -1,6 +1,6 @@
-## p.78
+# p.78
 
-megicians = ['alice', 'david', 'carolina']
+magicians = ['alice', 'david', 'carolina']
 
-for megician in  megicians:
-    print(megician)
+for magician in magicians:
+    print(f"{magician.title()}, that was a great trick!")
