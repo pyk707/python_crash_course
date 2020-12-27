@@ -18,4 +18,3 @@ jk = Restaurant("jk", "Chiness food")
 print(hk.describe_restaurant())
 print(yk.describe_restaurant())
 print(jk.describe_restaurant())
-
